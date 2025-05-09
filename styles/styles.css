@@ -301,8 +301,8 @@ body{
     }
 
     .header-content {
-        height:2400px;
-        padding: 50px 20px; /* paddingni kichikroq qilamiz */
+        height:2500px;
+        padding: 50px 20px; 
     }
    .img {
         width: 200px;
